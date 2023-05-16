@@ -1,4 +1,4 @@
-import React from 'react'
+/*import React from 'react'
 import {BsLinkedin} from 'react-icons/bs'
 import {FaGithub} from 'react-icons/fa'
 import {FaFacebookF} from 'react-icons/fa'
@@ -13,4 +13,4 @@ return (
 </div>
 )
 }
-export default HeaderSocial
+export default HeaderSocial*/
